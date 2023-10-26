@@ -1,0 +1,9 @@
+.head{
+  background-color: rgb(238, 28, 28);
+}
+.nave{
+   display: grid;
+   grid-template-columns: auto auto auto auto;
+   font-size: 30px;
+   color: wheat;
+}

@@ -1,0 +1,12 @@
+.footer{
+   background-color: green;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+.foot{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    font-size: 30px;
+    color: rgb(241, 237, 228);
+}
